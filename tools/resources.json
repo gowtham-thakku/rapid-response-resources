@@ -18,7 +18,7 @@
       "sheet": "Protocol"
     },
     {
-      "source": "resources/spreadsheets/5. Library Pooling Calculations.xlsx",
+      "source": "resources/worksheets/5. Library Pooling Calculations.xlsx",
       "docsDir": "docs/spreadsheets/library-pooling-calculations",
       "type": "xlsx-static"
     },
