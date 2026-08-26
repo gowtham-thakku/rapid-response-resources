@@ -1,5 +1,8 @@
 # Rapid Response Resources
 
+> **This repository was a prototype and is no longer maintained.**
+> The current version lives at **[cmtato/Rapid-Response-Resources](https://github.com/cmtato/Rapid-Response-Resources)**, with the browsable site at **https://cmtato.github.io/Rapid-Response-Resources/**. Please use those links.
+
 Resources for metagenomics sequencing, covering wet and dry lab methods for Illumina and Nanopore (ONT).
 
 <table>
