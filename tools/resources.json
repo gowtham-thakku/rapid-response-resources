@@ -19,7 +19,7 @@
     },
     {
       "source": "resources/worksheets/5. Library Pooling Calculations.xlsx",
-      "docsDir": "docs/spreadsheets/library-pooling-calculations",
+      "docsDir": "docs/worksheets/library-pooling-calculations",
       "type": "xlsx-static"
     },
     {
